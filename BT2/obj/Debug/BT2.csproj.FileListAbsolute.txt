@@ -1,0 +1,9 @@
+D:\TH\BT2\BT2\bin\Debug\BT2.exe.config
+D:\TH\BT2\BT2\bin\Debug\BT2.exe
+D:\TH\BT2\BT2\bin\Debug\BT2.pdb
+D:\TH\BT2\BT2\obj\Debug\BT2.csprojAssemblyReference.cache
+D:\TH\BT2\BT2\obj\Debug\BT2.ProjectInstaller.resources
+D:\TH\BT2\BT2\obj\Debug\BT2.csproj.GenerateResource.cache
+D:\TH\BT2\BT2\obj\Debug\BT2.csproj.CoreCompileInputs.cache
+D:\TH\BT2\BT2\obj\Debug\BT2.exe
+D:\TH\BT2\BT2\obj\Debug\BT2.pdb

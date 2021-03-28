@@ -1,0 +1,2158 @@
+﻿Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Creating EventLog source BT2 in log Application...
+Rolling back assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Restoring event log to previous state for source BT2.
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe
+Installing service BT2...
+Service BT2 has been successfully installed.
+Creating EventLog source BT2 in log Application...
+Committing assembly 'D:\TH\BT2\BT2\bin\Debug\BT2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT2\BT2\bin\Debug\BT2.InstallLog
+   assemblypath = D:\TH\BT2\BT2\bin\Debug\BT2.exe

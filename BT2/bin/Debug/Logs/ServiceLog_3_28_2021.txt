@@ -1,0 +1,24 @@
+notepad is not running!
+Service is started at 3/28/2021 12:21:44 PM
+Start3/28/2021 12:21:44 PM
+notepad is running!
+Service is started at 3/28/2021 12:24:46 PM
+Start3/28/2021 12:24:46 PM
+notepad is running!
+Service is started at 3/28/2021 12:25:41 PM
+Start3/28/2021 12:25:41 PM
+notepad is running!
+Service is started at 3/28/2021 12:26:02 PM
+Start3/28/2021 12:26:02 PM
+notepad is running!
+Service is started at 3/28/2021 12:39:04 PM
+Start3/28/2021 12:39:04 PM
+Service is stopped at 3/28/2021 12:52:12 PM
+notepad is running!
+Service is started at 3/28/2021 12:53:46 PM
+Start3/28/2021 12:53:46 PM
+Service is stopped at 3/28/2021 12:56:14 PM
+notepad is running!
+Service is started at 3/28/2021 12:56:29 PM
+Start3/28/2021 12:56:29 PM
+Service is stopped at 3/28/2021 12:58:32 PM
